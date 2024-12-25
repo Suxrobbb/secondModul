@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\dataaccess\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:dataaccess\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\dtos\\baseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\dtos\\baseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-dars\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFF389-4B04-43ED-9A93-74E1452971F3}|2.6-dars.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\DataAccess\\Data\\Users.json",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Users.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\DataAccess\\Data\\Users.json",
+              "RelativeToolTip": "DataAccess\\Data\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T07:37:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserUpdateDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:05:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\BaseUserDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\BaseUserDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\BaseUserDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\BaseUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:56:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:53:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\UserService.cs*",
+              "RelativeToolTip": "Services\\UserService.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:51:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:36:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:34:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserGetDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\UserGetDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserGetDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\UserGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:31:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Services\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:29:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:20:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:23:22.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\bin\Debug\net8.0\2.8-dars.exe
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\bin\Debug\net8.0\2.8-dars.deps.json
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\bin\Debug\net8.0\2.8-dars.runtimeconfig.json
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\bin\Debug\net8.0\2.8-dars.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\bin\Debug\net8.0\2.8-dars.pdb
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.AssemblyInfo.cs
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.sourcelink.json
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\refint\2.8-dars.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.pdb
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\2.8-dars.genruntimeconfig.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.8-dars\obj\Debug\net8.0\ref\2.8-dars.dll

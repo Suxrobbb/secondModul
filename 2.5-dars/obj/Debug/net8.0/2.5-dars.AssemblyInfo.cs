@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2.5-dars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b655390e5457ee0ae249ae149f83d53613c3c0c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead3998cca19db62a8aa18ab2844ec965bd5e694")]
 [assembly: System.Reflection.AssemblyProductAttribute("2.5-dars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2.5-dars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

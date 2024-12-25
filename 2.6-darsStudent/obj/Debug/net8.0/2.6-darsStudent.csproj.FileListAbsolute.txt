@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\bin\Debug\net8.0\2.6-darsStudent.exe
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\bin\Debug\net8.0\2.6-darsStudent.deps.json
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\bin\Debug\net8.0\2.6-darsStudent.runtimeconfig.json
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\bin\Debug\net8.0\2.6-darsStudent.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\bin\Debug\net8.0\2.6-darsStudent.pdb
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.AssemblyInfo.cs
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.sourcelink.json
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\refint\2.6-darsStudent.dll
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.pdb
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\2.6-darsStudent.genruntimeconfig.cache
+C:\Users\user\Documents\PDP C#\secondModul\2.6-darsStudent\obj\Debug\net8.0\ref\2.6-darsStudent.dll

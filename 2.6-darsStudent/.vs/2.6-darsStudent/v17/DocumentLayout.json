@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\dataaccess\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:dataaccess\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\dataaccess\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:dataaccess\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\dtos\\basestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\dtos\\basestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\services\\dtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:services\\dtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|c:\\users\\user\\documents\\pdp c#\\secondmodul\\2.6-darsstudent\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A1DBF-3FB9-4C58-A7E0-F7E7BB258C18}|2.6-darsStudent.csproj|solutionrelative:repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\DataAccess\\Data\\Students.json",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Students.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\DataAccess\\Data\\Students.json",
+              "RelativeToolTip": "DataAccess\\Data\\Students.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T12:40:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentUpdateDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:11:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentGetDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\StudentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:09:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\StudentCreateDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:08:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\BaseStudentDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\BaseStudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\DTOs\\BaseStudentDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\BaseStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:07:37.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:06:57.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:06:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:29:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:28:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\DataAccess\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\DataAccess\\Entites\\Student.cs",
+              "RelativeToolTip": "DataAccess\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:25:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\secondModul\\2.6-darsStudent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:22:02.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
